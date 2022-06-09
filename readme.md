@@ -21,4 +21,13 @@ Consider the following: <br/>
 |	Question	|      File Name        |  Url Link  |  Remark  |
 |---------------|-----------------------|------------|----------|
 |     1/a		|   01_algorithm.py     |[Click Here](https://github.com/harimau99/Naluri-Technical-Challenge/blob/main/reply/01_algorithm.py) | Only algorithm file written in python  |
+|	  1/b		|		coming soon		|    *       |  *       |
+|     1/c       |                       |    *       |  *       |
+
+
+|	Question	|      File Name        |  Url Link  |  Remark  |
+|---------------|-----------------------|------------|----------|
+|    2/a		|     coming soon 		|    * 		 |  *		|
+|	 2/b		|	  coming soon		|    *       |  *       |
+
 
