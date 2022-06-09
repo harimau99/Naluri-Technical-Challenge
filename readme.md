@@ -3,6 +3,12 @@
 
 1. Create an HTTP server that is capable of <br/>
 	a. Calculating Pi to increasing accuracy e.g. 3, 3.1, 3.14, 3.141, 3.1415… etc. <br/>
+	
+	|  File Name  |  Url Link  |  Remark  |
+	|-------------|------------|----------|
+	| 01_	      |[Click Here](https://github.com/harimau99/Naluri-Technical-Challenge/blob/main/reply/01_algorithm.py) | Only algorithm file written in python  |
+
+	
 	b. Everytime the server has calculated the next decimal precision, it should store <br/> the most accurate value
 	c. When the server is queried via an HTTP GET request, it will respond with the <br/> most accurate value that the server has calculated <br/>
 
