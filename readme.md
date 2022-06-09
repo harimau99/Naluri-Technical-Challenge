@@ -12,9 +12,9 @@
 <br/>
 Consider the following: <br/>
 
-	1. Please calculate Pi algorithmically by using one of the known formulas. <br/>
-	2. Initialize a git repo when you start your project and include the .git folder in your submission. <br/>
-	3. Feel free to use third party libraries in your submission for everything but the Pi calculation. <br/>
+	a. Please calculate Pi algorithmically by using one of the known formulas.
+	b. Initialize a git repo when you start your project and include the .git folder in your submission.
+	c. Feel free to use third party libraries in your submission for everything but the Pi calculation. 
 
 
 ## Answers
